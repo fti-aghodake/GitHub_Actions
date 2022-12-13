@@ -14,8 +14,4 @@ whoami
 echo 5. To display system info.
 uname -a
 
-echo 6. To display system information(Displays the operating system name).
-uname
-
-
 
