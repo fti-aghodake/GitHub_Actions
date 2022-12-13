@@ -11,18 +11,11 @@ git --version
 echo 4. Who is running your script?
 whoami
  
-echo 4. what is the output of following code?
-a=20
-b=20
-if [ $a == $b ]
-then
-    #If they are equal then print this
-    echo "a is equal to b"
-else
-    #else print this
-    echo "a is not equal to b"
-fi
+echo 5.
+uname -r
 
+echo 6. 
+uname
 
 
 
