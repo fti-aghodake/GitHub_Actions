@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 
 echo 1. what is in this directory?
 ls -a
