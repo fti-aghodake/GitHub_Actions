@@ -11,8 +11,18 @@ git --version
 echo 4. Who is running your script?
 whoami
  
-echo 5. what is time?
-start_time=$(time +%F' 00:00:00'  -d "-$i days")
+echo 4. what is the output of following code?
+a=20
+b=20
+if [ $a == $b ]
+then
+    #If they are equal then print this
+    echo "a is equal to b"
+else
+    #else print this
+    echo "a is not equal to b"
+fi
+
 
 
 
