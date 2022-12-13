@@ -14,13 +14,14 @@ whoami
 echo 5. what is this in this script?
 echo "Hello world" # this is also a comment
 
-echo Our shell name is $BASH
-echo Our shell version is $BASH_VERSION
-echo Our home directory is $HOME
-echo Our current working directory is $PWD
+echo Our shell name is /bin/bash
+echo Our shell version is 5.1.16(1)-release
+echo Our home directory is /home/amol
+echo Our current working directory is /home/amol/Downloads/Shell_script
 
 #user defined variable in shell script
 name=Mark
-echo The name is $name
+echo The name is Mark
+
 
 
