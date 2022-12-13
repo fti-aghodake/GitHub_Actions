@@ -10,13 +10,16 @@ echo
 
 echo 3. Is Git Installed?
 git --version
+echo
 
 echo 4. Is Python3 installed?
 python3 --version
+echo 
 
 echo 5. Who is running your script?
 whoami
- 
+echo
+
 echo 6. To display system info.
 uname -a
 
